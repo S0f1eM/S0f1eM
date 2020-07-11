@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hi there 👋 I'm Sophie, a french developer who love front-end development. 
 
-<!--
-**S0f1eM/S0f1eM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I love coding with Javascript. 
+### I had experiences with various CMS (WordPress, Plone, Prestashop, Jalios)
 
-Here are some ideas to get you started:
+### I search for a professionnal project to evolve with great people. 
+#### Remote job are prefered. Collaborate with a international team would be a thrilling experience for me.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on JCMS
+- 🌱 I’m currently learning React with redux and with node.
+- 👯 I’m looking to collaborate on javascript projects.
+
+- 🤔 I’m looking for developers mentors.
+- 💬 Ask me about wordpress, javascript...and the rest. If I can help, I will with pleasure. If I can't, I will help you to find someone who can.
+
+- 📫 How to reach me: on this profile, on my twitter account or linkedin.
+- 😄 Pronouns: She / Her
+- ⚡ Fun fact: I have a degree in History and Archeologia 🤠 
+
+
+
