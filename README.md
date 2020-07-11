@@ -1,10 +1,9 @@
-## Hi there 👋 I'm Sophie, a french developer who love front-end development. 
+### Hi there 👋 I'm Sophie, a french developer who love front-end development. 
 
-### I love coding with Javascript. 
-### I had experiences with various CMS (WordPress, Plone, Prestashop, Jalios)
-
-### I search for a professionnal project to evolve with great people. 
-#### Remote job are prefered. Collaborate with a international team would be a thrilling experience for me.
+#### I love coding with Javascript. 
+#### I had experiences with various CMS (WordPress, Plone, Prestashop, Jalios)
+#### I search for new developer role, a professionnal project to evolve with great people. 
+#### A Remote job to collaborate with a international team would be a thrilling experience for me.
 
 - 🔭 I’m currently working on JCMS
 - 🌱 I’m currently learning React with redux and with node.
