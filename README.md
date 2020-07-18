@@ -6,8 +6,8 @@
 
 🔭 I’m currently working on integration with JCMS.   
 🌱 I’m currently learning React with redux and React Native.  
-🎋 I'm want to learn React with Node and Typescript next.  
-📫 How to reach me: on this profile, on my *[Twitter](https://twitter.com/S0f1eM)* account or *[Linkedin](https://www.linkedin.com/in/sophie-marchand-web-developer/)*.    
+🎋 I want to learn React with Node and Typescript next.  
+📫 How to reach me: on my portfolio, on *[Twitter](https://twitter.com/S0f1eM)* or *[Linkedin](https://www.linkedin.com/in/sophie-marchand-web-developer/)*.    
 🖌️ *[Portfolio](https://sophie-marchand.netlify.app/)*  
 
 
