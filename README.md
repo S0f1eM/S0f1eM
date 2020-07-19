@@ -1,6 +1,3 @@
-
-![compassionate-coding](/S0f1eM/S0f1eM/blob/master/compassionate.jpeg)
-
 # Hello there 👋 I'm Sophie. 
 
 <p> I'm a french developer who love <b>Front-End developement</b> and <b>Javascript</b>. I had experiences with <b>HTML/CSS/JS</b> and <b>CMS</b> (WordPress, Plone, Prestashop, Jalios).</p>
@@ -18,4 +15,5 @@
 
 📫 How to reach me: on my *[portfolio](https://sophie-marchand.netlify.app/Contact)*, on *[Twitter](https://twitter.com/S0f1eM)* or *[Linkedin](https://www.linkedin.com/in/sophie-marchand-web-developer/)*. 
 
+![compassionate-coding](/S0f1eM/S0f1eM/blob/master/compassionate.jpeg)
 
