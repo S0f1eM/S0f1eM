@@ -9,7 +9,7 @@
 
 🌱 On my "to learn" list next: Node (with React), Typescript... 
 
-🤠 Off topics facts about me : I had an art history and archeologia degree and I am a big fan of Pixar movies.  
+🤠 Off topics facts about me : I am a big fan of Pixar movies and I have an art history and archeologia degree.  
 
 🖌️ To learn more about me, you can see my <b>developer resume</b> on my *[Portfolio](https://sophie-marchand.netlify.app/Resume)*.
 
