@@ -11,7 +11,7 @@
 
 🤠 Off topics facts about me : I am a big fan of Pixar movies and I have an art history and archeologia degree.  
 
-🖌️ To learn more about me, you can see my <b>developer resume</b> on my *[Portfolio](https://sophie-marchand.netlify.app/Resume)*.
+🖌️ To learn more about me, you can see my <b>developer resume</b> on my *[Portfolio](https://sophie-marchand.netlify.app/)*.
 
 📫 How to reach me: on my *[portfolio](https://sophie-marchand.netlify.app/Contact)*, on *[Twitter](https://twitter.com/S0f1eM)* or *[Linkedin](https://www.linkedin.com/in/sophie-marchand-web-developer/)*. 
 
