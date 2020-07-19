@@ -1,7 +1,7 @@
 # Hello there 👋 I'm Sophie. 
 
 <p> I'm a french developer who love <b>Front-End developement</b> and <b>Javascript</b>. I had experiences with <b>HTML/CSS/JS</b> and <b>CMS</b> (WordPress, Plone, Prestashop, Jalios).</p>
-<p> I search for a remote job to collaborate with an international team to grow with passionates people.</p>
+<p> I search for a <b>remote job</b> to collaborate with an <b>international team</b> to grow with passionates people.</p>
 
 <p>💻 I’m working in my day job with JCMS (jalios).</p>
 
