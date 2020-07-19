@@ -1,5 +1,5 @@
 
-![compassionate-coding](compassionate.jpeg)
+![compassionate-coding](/S0f1eM/S0f1eM/blob/master/compassionate.jpeg)
 
 # Hello there 👋 I'm Sophie. 
 
