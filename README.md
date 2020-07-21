@@ -1,19 +1,49 @@
-# Hello there 👋 I'm Sophie. 
+## 👋 Hello there, I'm Sophie, a Front-end developer based in France.  
 
-<p> I'm a french developer who love <b>Front-End developement</b> and <b>Javascript</b>. I had experiences with <b>HTML/CSS/JS</b> and <b>CMS</b> (WordPress, Plone, Prestashop, Jalios).</p>
-<p> I search for a <b>remote job</b> to collaborate with an <b>international team</b> to grow with passionates people.</p>
+<p>I like coding with <b>Javascript</b> and had experiences with <b>HTML/CSS/JS</b> and various <b>CMS</b> (WordPress, Plone, Prestashop, Jalios).</p>
 
-<p>💻 I’m working in my day job with JCMS (jalios).</p>
+<p>💻 I’m working on JCMS (jalios) with my actual job.</p>
 
-<p>🔭 I’m currently learning <b>React with redux</b> and <b>React Native</b>.</p>
+<p>🔭 I’m currently keep on learning <b>React</b> and starting my journey with <b>React Native</b>.   
+I also try to know more about a11y for a better code, more accessible to everyone.</p>
 
-🌱 On my "to learn" list next: Node (with React), Typescript... 
+🌱 On my "to learn" list, I will go deeper in Node (with React), Typescript, and also more about a11y ♿... 
 
-🤠 Off topics facts about me : I am a big fan of Pixar movies and I have an art history and archeologia degree.  
+👩‍💻 About me (Interests and off topics) : 
+* I love Pixar movies 🎈🎈🏠🎈🎈  
+* I have an art history and archeologia degree 🤠  
+* I need to workout every day 💪  
+* I love long walks on the beach ♈
+* I love playing onboard games 🎲 and video games 🎮 with friends, family and coworkers.
 
-🖌️ To learn more about me, you can see my <b>developer resume</b> on my *[Portfolio](https://sophie-marchand.netlify.app/)*.
+👩🏻‍💼 About me (as a coworker) : 
+* 🙋‍♀️ I am proactive, I adapt easily to the work habits of my coworkers and I got the sense of responsibility.   
+* 🛎️ I have sense of service and good team spirit: always available and enthusiastic 😄, I bring good humour and optimism to the group 🌼.   
+* I believe it's important to support coworkers 🤗 and give them the means to develop as individuals 🎗️⚖️🏳️‍🌈 while growing within the group 💯 .
 
-📫 How to reach me: on my *[portfolio](https://sophie-marchand.netlify.app/Contact)*, on *[Twitter](https://twitter.com/S0f1eM)* or *[Linkedin](https://www.linkedin.com/in/sophie-marchand-web-developer/)*. 
+#### ⚠️ I search for a remote job to collaborate with an international team to grow with passionates people.
+
+## Developer XP
+
+#### Analyst Developer - ASI (IT and consulting company) - oct. 2019 - today
+
+* Missions on various bank companies intranets implemented templates & portlets with Jalios CMS.
+* Work with Java, jsp, Less, jQuery, JIRA, Jenkins (CI/CD), Eclipse, Gitlab...
+
+#### Web Developer - IUEM - National education (public official contract) - feb. 2017 - dec. 2018 (2 years)
+
+<p>My first job as a developer : it was a great challenge and a success (to my personal and humble experience).</p>
+
+* 2017 (1 year contract): Users support on Plone CMS (CSS, JS, Python). Fixing bug, CSS and content on new intranet.  
+* 2018 (contract renewed for 1 year): <b>Project management and developement</b> on the *[4 main sites](https://www-iuem.univ-brest.fr/) rebuild.  
+⌨️ Migration from Plone to Wordpress, integration of the design, built and implemented custom contents (CPT).  
+⌨️ *[Development of a custom plugin](https://github.com/S0f1eM/my-first-wp-plugin) for the university directory database (postgre to MySQL, PHP, JavaScript).
+
+📫 To reach me on the web : 
+
+* 🖌️ You can contact me ans see my developer resume on my *[Portfolio](https://sophie-marchand.netlify.app/)*.
+* 🐦 my *[Twitter](https://twitter.com/S0f1eM)* account.
+* 💬 or *[Linkedin](https://www.linkedin.com/in/sophie-marchand-web-developer/)*. 
 
 ![compassionate-coding](/S0f1eM/S0f1eM/blob/master/compassionate.jpeg)
 
