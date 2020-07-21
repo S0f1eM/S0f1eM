@@ -5,23 +5,23 @@
 <p>💻 I’m working on JCMS (jalios) with my actual job.</p>
 
 <p>🔭 I’m currently keep on learning <b>React</b> and starting my journey with <b>React Native</b>.   
-I also try to know more about a11y for a better code, more accessible to everyone.</p>
+I also try to know more about a11y for a better code, more accessible to everyone ♿.</p>
 
-🌱 On my "to learn" list, I will go deeper in Node (with React), Typescript, and also more about a11y ♿... 
+🌱 On my "to learn" list, I will go deeper in Node (with React), Typescript...
+
+#### ⚠️ I'm currently searching for a remote job to collaborate with an international team to grow with passionates people.
 
 👩‍💻 About me (Interests and off topics) : 
 * I love Pixar movies 🎈🎈🏠🎈🎈  
 * I have an art history and archeologia degree 🤠  
 * I need to workout every day 💪  
-* I love long walks on the beach ♈
+* I love long walks on the beach 🌅
 * I love playing onboard games 🎲 and video games 🎮 with friends, family and coworkers.
 
 👩🏻‍💼 About me (as a coworker) : 
 * 🙋‍♀️ I am proactive, I adapt easily to the work habits of my coworkers and I got the sense of responsibility.   
 * 🛎️ I have sense of service and good team spirit: always available and enthusiastic 😄, I bring good humour and optimism to the group 🌼.   
 * I believe it's important to support coworkers 🤗 and give them the means to develop as individuals 🎗️⚖️🏳️‍🌈 while growing within the group 💯 .
-
-#### ⚠️ I search for a remote job to collaborate with an international team to grow with passionates people.
 
 ## Developer XP
 
@@ -39,7 +39,7 @@ I also try to know more about a11y for a better code, more accessible to everyon
 ⌨️ Migration from Plone to Wordpress, integration of the design, built and implemented custom contents (CPT).  
 ⌨️ *[Development of a custom plugin](https://github.com/S0f1eM/my-first-wp-plugin) for the university directory database (postgre to MySQL, PHP, JavaScript).
 
-📫 To reach me on the web : 
+### 📫 To reach me on the web : 
 
 * 🖌️ You can contact me ans see my developer resume on my *[Portfolio](https://sophie-marchand.netlify.app/)*.
 * 🐦 my *[Twitter](https://twitter.com/S0f1eM)* account.
