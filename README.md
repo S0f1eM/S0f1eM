@@ -4,12 +4,14 @@
 
 <p>💻 I’m working on JCMS (jalios) with my actual job.</p>
 
-<p>🔭 I’m currently keep on learning <b>React</b> and starting my journey with <b>React Native</b>.   
+<p>🔭 I’m currently keep on learning <b>React</b> and start my journey with <b>React Native</b>.   
 I also try to know more about a11y for a better code, more accessible to everyone ♿.</p>
 
-🌱 On my "to learn" list, I will go deeper in Node (with React), Typescript...
+🌱 On my "to learn" list, I want to go deeper in Node (with React), Typescript...
 
 #### ⚠️ I'm currently searching for a remote job to collaborate with an international team to grow with passionates people.
+
+![compassionate-coding](/S0f1eM/S0f1eM/blob/master/compassionate.jpeg)
 
 👩‍💻 About me (Interests and off topics) : 
 * I love Pixar movies 🎈🎈🏠🎈🎈  
@@ -44,6 +46,4 @@ I also try to know more about a11y for a better code, more accessible to everyon
 * 🖌️ You can contact me ans see my developer resume on my *[Portfolio](https://sophie-marchand.netlify.app/)*.
 * 🐦 my *[Twitter](https://twitter.com/S0f1eM)* account.
 * 💬 or *[Linkedin](https://www.linkedin.com/in/sophie-marchand-web-developer/)*. 
-
-![compassionate-coding](/S0f1eM/S0f1eM/blob/master/compassionate.jpeg)
 
