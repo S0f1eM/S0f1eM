@@ -13,19 +13,19 @@ I also try to know more about <b>accessibility</b> for a better code, more acces
 
 ![compassionate-coding](/S0f1eM/S0f1eM/blob/master/compassionate.jpeg)
 
-👩🏻‍💼 About me (as a coworker) : 
+### 👩🏻‍💼 About me (as a coworker) : 
 * 🙋‍♀️ I am proactive, I adapt easily to the work habits of my coworkers and I got the sense of responsibility.   
 * 🛎️ I have sense of service and good team spirit: always available and enthusiastic 😄, I bring good humour and optimism to the group 🌼.   
 * I believe it's important to support coworkers 🤗 and give them the means to develop as individuals 🎗️⚖️🏳️‍🌈 while growing within the group 💯 .
 
-👩‍💻 About me (as an individual) : 
+### 👩‍💻 About me (as an individual) : 
 * I love Pixar movies 🎈🎈🏠🎈🎈  
 * I have an art history and archeologia degree 🤠  
 * I need to workout every day 💪  
 * I love long walks on the beach 🌅
 * I love playing onboard games 🎲 and video games 🎮 with friends, family and coworkers.
 
-## Developer XP
+### Developer XP
 
 #### Analyst Developer - ASI (IT and consulting company) - oct. 2019 - today
 
