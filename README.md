@@ -25,7 +25,7 @@ I also try to know more about <b>accessibility</b> for a better code, more acces
 * I love long walks on the beach 🌅
 * I love playing onboard games 🎲 and video games 🎮 with friends, family and coworkers.
 
-### Developer XP
+### >_ Developer XP
 
 #### Analyst Developer - ASI (IT and consulting company) - oct. 2019 - today
 
