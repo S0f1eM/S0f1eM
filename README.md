@@ -23,7 +23,7 @@ I also try to know more about <b>accessibility</b> for a better code, more acces
 * I have an art history and archeologia degree 🤠  
 * I need to workout every day 💪  
 * I love long walks on the beach 🌅
-* I love playing onboard games 🎲 and video games 🎮 with friends, family and coworkers.
+* I love playing onboard games 🎲 and video games 🎮
 
 ### >_ Developer XP
 
