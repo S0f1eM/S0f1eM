@@ -2,28 +2,28 @@
 
 <p>I like coding with <b>Javascript</b> and had experiences with <b>HTML/CSS/JS</b> and various <b>CMS</b> (WordPress, Plone, Prestashop, Jalios).</p>
 
-<p>💻 I’m working on JCMS (jalios) with my actual job.</p>
+<p>💻 I’m working on JCMS (jalios) and jsp with my actual job.</p>
 
-<p>🔭 I’m currently keep on learning <b>React</b> and start my journey with <b>React Native</b>.   
-I also try to know more about <b>accessibility</b> for a better code, more accessible to everyone ♿.</p>
+<p>🔭 I’m currently developing my skills with <b>React</b> and learning <b>React Native</b>.   
+I also try to know more about <b>accessibility</b> ♿.</p>
 
-🌱 On my "to learn" list, I want to go deeper in Node (with React), Typescript...
+🌱 After my React Native exploration, I want to go deeper in Node with React and give a try to Typescript...
 
-#### ⚠️ I'm currently searching for a remote job to collaborate with an international team to grow with passionates people.
+#### ⚠️ I'm currently searching for a full remote job to collaborate with an international team to grow with passionates people.
 
 ![compassionate-coding](/S0f1eM/S0f1eM/blob/master/compassionate.jpeg)
 
 ### 👩🏻‍💼 About me (as a coworker) : 
 * 🙋‍♀️ I am proactive, I adapt easily to the work habits of my coworkers and I got the sense of responsibility.   
-* 🛎️ I have sense of service and good team spirit: always available and enthusiastic 😄, I bring good humour and optimism to the group 🌼.   
-* I believe it's important to support coworkers 🤗 and give them the means to develop as individuals 🎗️⚖️🏳️‍🌈 while growing within the group 💯 .
+* 🛎️ I have sense of service and team spirit: always available and enthusiastic 😄, I bring good humour and optimism to the group 🌼.   
+* I believe it's important to support coworkers 🤗 and give them the means to develop as individuals 🎗️⚖️🏳️‍🌈 while growing within the group.
 
 ### 👩‍💻 About me (as an individual) : 
 * I love Pixar movies 🎈🎈🏠🎈🎈  
 * I have an art history and archeologia degree 🤠  
 * I need to workout every day 💪  
 * I love long walks on the beach 🌅
-* I love playing onboard games 🎲 and video games 🎮
+* I like playing onboard games 🎲 and video games 🎮
 
 ### >_ Developer XP
 
