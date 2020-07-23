@@ -45,7 +45,7 @@ I also try to know more about <b>accessibility</b> ♿.</p>
 
 ### 📫 To reach me on the web : 
 
-* 🖌️ You can contact me ans see my developer resume on my *[Portfolio](https://sophie-marchand.netlify.app/)*.
+* 🖌️ You can contact me and see my developer resume on my *[Portfolio](https://sophie-marchand.netlify.app/)*.
 * 🐦 my *[Twitter](https://twitter.com/S0f1eM)* account.
 * 💬 or *[Linkedin](https://www.linkedin.com/in/sophie-marchand-web-developer/)*. 
 
