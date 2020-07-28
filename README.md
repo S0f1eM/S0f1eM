@@ -1,13 +1,12 @@
-## 👋 Hello there, I'm Sophie, a Front-end developer based in France.  
+## 👋 Hi there, I'm Sophie ! I'm a Frontend oriented developer based in France.  
 
-<p>I like coding with <b>Javascript</b> and had experiences with <b>HTML/CSS/JS</b> and various <b>CMS</b> (WordPress, Plone, Prestashop, Jalios).</p>
+<p>I have experiences with <b>Javascript</b> and various <b>CMS</b> (WordPress, Plone, Prestashop, Jalios).</p>
+
+<p>🔭 I’m currently developing my skills with <b>React</b> and learning <b>React Native</b>.</p>
 
 <p>💻 I’m working on JCMS (jalios) and jsp with my actual job.</p>
 
-<p>🔭 I’m currently developing my skills with <b>React</b> and learning <b>React Native</b>.   
-I also try to know more about <b>accessibility</b> ♿.</p>
-
-🌱 After my React Native exploration, I want to go deeper in Node with React and give a try to Typescript...
+🌱 After React Native, I want to go deeper in Node with React and give a try to Typescript...
 
 #### ⚠️ I'm currently searching for a full remote job to collaborate with an international team to grow with passionates people.
 
@@ -15,7 +14,7 @@ I also try to know more about <b>accessibility</b> ♿.</p>
 
 ### 👩🏻‍💼 About me (as a coworker) : 
 * 🙋‍♀️ I am proactive, I adapt easily to the work habits of my coworkers and I got the sense of responsibility.   
-* 🛎️ I have sense of service and team spirit: always available and enthusiastic 😄, I bring good humour and optimism to the group 🌼.   
+* 🛎️ I have sense of service and team spirit: always available and enthusiastic 😄, I bring good humo(u)r and optimism to the group 🌼.   
 * I believe it's important to support coworkers 🤗 and give them the means to develop as individuals 🎗️⚖️🏳️‍🌈 while growing within the group.
 
 ### 👩‍💻 About me (as an individual) : 
@@ -45,7 +44,9 @@ I also try to know more about <b>accessibility</b> ♿.</p>
 
 ### 📫 To reach me on the web : 
 
-* 🖌️ You can contact me and see my developer resume on my *[Portfolio](https://sophie-marchand.netlify.app/)*.
-* 🐦 my *[Twitter](https://twitter.com/S0f1eM)* account.
-* 💬 or *[Linkedin](https://www.linkedin.com/in/sophie-marchand-web-developer/)*. 
+* How to contact me and know more about me, see my :
+* 🖌️ *[Portfolio](https://sophie-marchand.netlify.app/)*.
+* 🐦 *[Twitter](https://twitter.com/S0f1eM)* account.
+* 💬 *[Linkedin](https://www.linkedin.com/in/sophie-marchand-web-developer/)*. 
+* 📝 *[developer resume](https://www.cakeresume.com/me/sophie-marchand)*.
 
