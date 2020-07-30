@@ -35,7 +35,7 @@
 * 2017 (1 year contract): Users support on Plone CMS (CSS, JS, Python).   
 ⌨️ Fixing bugs, tickets, updates, training, adding CSS and content on new intranet. 
 
-* 2018 (contract renewed for 1 year): <b>Project management and developement</b> on the [4 main sites](https://www-iuem.univ-brest.fr/) rebuild.  
+* 2018 (contract renewed for 1 year): <b>Project management and development</b> on the [4 main sites](https://www-iuem.univ-brest.fr/) rebuild.  
 ⌨️ Migration from Plone to Wordpress, integration of the design, built and implemented [custom contents (CPT)](https://www-iuem.univ-brest.fr/lemar/recherche/equipe-panorama/#prsentation).  
 ⌨️ [Development of a custom plugin](https://github.com/S0f1eM/my-first-wp-plugin) for the university directory database (postgre to MySQL, PHP, JavaScript).
 
