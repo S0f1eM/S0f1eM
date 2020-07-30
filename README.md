@@ -6,8 +6,6 @@
 
 <p>👩‍💻 I’m working on JCMS (jalios) and jsp with my actual job.</p>
 
-🌱 After React Native, I want to go deeper in Node with React and give a try to Typescript...
-
 #### ⚠️ I'm currently searching for a remote job to collaborate with an international team to grow with passionates people.
 
 ![compassionate-coding](/S0f1eM/S0f1eM/blob/master/compassionate.jpeg)
