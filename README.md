@@ -4,9 +4,9 @@
 
 <p>🔭 I’m currently learning <b>React</b> and <b>React Native</b>.</p>
 
-<p>👩‍💻 I’m working on JCMS (jalios) with my actual job.</p>
+<p>👩‍💻 I’m working on JCMS (jalios) with my current job.</p>
 
-#### ⚠️ I'm currently searching for a frontend developer remote job to collaborate with positive and passionate people. 
+#### ⚠️ I'm searching for a developer remote job to collaborate with positive and passionate people. 
 
 ![compassionate-coding](/S0f1eM/S0f1eM/blob/master/compassionate.jpeg)
 
@@ -25,19 +25,25 @@
 
 #### Analyst Developer - ASI (IT and consulting company) - oct. 2019 - today
 
-* Missions on various bank companies intranets implemented templates, gabarits & portlets with Jalios CMS.
-* Work with Java, jsp, Less, jQuery, JIRA, Jenkins (CI/CD), Eclipse, Gitlab...
+* Missions on various bank companies intranets implemented templates, gabarits & portlets with Jalios CMS (HTML/LESS).
+* Work with Java, jsp, jQuery, JIRA, Jenkins (CI/CD), Eclipse, Gitlab...
 
 #### Web Developer - IUEM - National education (public official contract) - feb. 2017 - dec. 2018 (2 years)
 
 <p>My first job as a developer : it was a great challenge !</p>
 
 * 2017 (1 year contract): Users support on Plone CMS (CSS, JS, Python).   
-⌨️ Fixing bugs, tickets, updates, training, adding CSS and content on new intranet. 
+⌨️  Hire for web pole maintenance : fixing bugs (tickets), updates, new users training, HTML/CSS and fix contents on the intranet. 
 
 * 2018 (contract renewed for 1 year): <b>Project management and development</b> on the [4 main sites](https://www-iuem.univ-brest.fr/) rebuild.  
-⌨️ Migration from Plone to Wordpress, integration of the design, built and implemented [custom contents (CPT)](https://www-iuem.univ-brest.fr/lemar/recherche/equipe-panorama/#prsentation).  
+⌨️ "Agile" schedule management and modifications of the plannings to keep the final deadline (end of my contract) for each websites.
+⌨️ Migration of contents from Plone websites to new WordPress.
+⌨️ Integration of the design with the page builder (Elementor) choosed by the graphist so he could refresh the websites design without a developer.
+⌨️ Build and implementation of various [custom contents (CPT)](https://www-iuem.univ-brest.fr/lemar/recherche/equipe-panorama/#prsentation) depending oh the laboratories needs. 
 ⌨️ [Development of a custom plugin](https://github.com/S0f1eM/my-first-wp-plugin) for the university directory database (postgre to MySQL, PHP, JavaScript).
+⌨️ Websites deployment and feedbacks adjustments.
+⌨️ Tests on the internal server, technical and users documentations, meetings...
+
 
 ### 📫 To reach me on the web : 
 
@@ -45,5 +51,5 @@
 * 🖌️ *[Portfolio](https://sophie-marchand.netlify.app/)*.
 * 🐦 *[Twitter](https://twitter.com/S0f1eM)*.
 * 💬 *[Linkedin](https://www.linkedin.com/in/sophie-marchand-web-developer/)*. 
-* 📝 *[developer resume](https://www.cakeresume.com/me/sophie-marchand)*.
+* 📝 *[Online developer resume](https://www.cakeresume.com/me/sophie-marchand)*.
 
