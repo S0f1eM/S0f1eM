@@ -39,9 +39,9 @@
 ⌨️ "Agile" schedule management and modifications of the plannings to keep the final deadline (end of my contract) for each websites.  
 ⌨️ Migration of contents from Plone websites to new WordPress.  
 ⌨️ Integration of the design with the page builder (Elementor) choosed by the graphist so he could refresh the websites design without a developer.  
-⌨️ Build and implementation of various [custom contents (CPT)](https://www-iuem.univ-brest.fr/lemar/recherche/equipe-panorama/#prsentation) depending oh the laboratories needs.   
-⌨️ [Development of a custom plugin](https://github.com/S0f1eM/my-first-wp-plugin) for the university directory database (postgre to MySQL, PHP, JavaScript).
-⌨️ Websites deployment and feedbacks adjustments.  
+⌨️ Build and implementation of various [custom contents (CPT)](https://www-iuem.univ-brest.fr/lemar/recherche/equipe-panorama/#prsentation) depending oh the laboratories needs.  
+⌨️ [Development of a custom plugin](https://github.com/S0f1eM/my-first-wp-plugin) for the university directory database (postgre to MySQL, PHP, JavaScript).  
+⌨️ Websites deployment and feedbacks adjustments.    
 ⌨️ Tests on the internal server, technical and users documentations, meetings...  
 
 
