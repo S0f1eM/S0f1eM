@@ -32,13 +32,13 @@
 
 <p>My first job as a developer : it was a great challenge !</p>
 
-* 2017 (1 year contract): Users support on Plone CMS (CSS, JS, Python).   
-⌨️  Hire for web pole maintenance : fixing bugs (tickets), updates, new users training, HTML/CSS and fix contents on the intranet. 
+* 2017 (1 year contract): Users support on Plone CMS (CSS, JS, Python) for about 40 websites.   
+⌨️  Hire for web pole maintenance : fixing bugs (tickets), updating CMS versions, Training users, continuous HTML/CSS integration and updating contents on the intranet. 
 
 * 2018 (contract renewed for 1 year): <b>Project management and development</b> on the [4 main sites](https://www-iuem.univ-brest.fr/) rebuild.    
 ⌨️ "Agile" schedule management and modifications of the plannings to keep the final deadline (end of my contract) for each websites.  
-⌨️ Migration of contents from Plone websites to new WordPress.  
-⌨️ Integration of the design with the page builder (Elementor) choosed by the graphist so he could refresh the websites design without a developer.  
+⌨️ Migration of updated contents from Plone websites to WordPress websites for each new one.  
+⌨️ Integration of the design with the page builder Elementor (graphist choice to keep the ability to refresh the websites design at the end of my contract).  
 ⌨️ Build and implementation of various [custom contents (CPT)](https://www-iuem.univ-brest.fr/lemar/recherche/equipe-panorama/#prsentation) depending oh the laboratories needs.  
 ⌨️ [Development of a custom plugin](https://github.com/S0f1eM/my-first-wp-plugin) for the university directory database (postgre to MySQL, PHP, JavaScript).  
 ⌨️ Websites deployment and feedbacks adjustments.    
