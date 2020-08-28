@@ -14,10 +14,8 @@
 * 🙋‍♀️ I adapt easily to the work habits of my coworkers and I got sense of responsibility.   
 * 🛎️ Always available and enthusiastic 😄, I bring good humo(u)r and optimism to the group 🌼.   
 * 🤗 I believe it's important to support coworkers and give them the means to develop as individuals 🙋‍♀️⚖️🏳️‍🌈 while growing within the group.
-* I love Pixar movies 🎈🎈🏠🎈🎈  
 * I have an art history and archeologia degree 🤠  
-* I love walks on the beach 🌅 and in the hood 🌲
-* I like to relax playing onboard games 🎲 and video games 🎮
+* I love Pixar movies 🎈🎈🏠🎈🎈  
 * ...
 
 ### >_ Developer XP
