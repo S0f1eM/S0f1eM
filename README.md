@@ -2,7 +2,7 @@
 
 <p>💻 I have experiences with <b>Javascript</b> and various <b>CMS</b> (WordPress, Plone, Prestashop, Jalios).</p>
 
-<p>🔭 I’m currently learning <b>React</b> and <b>React Native</b>.</p>
+<p>🔭 I’m currently learning <b>React</b> with Redux.</p>
 
 <p>👩‍💻 I’m working on JCMS (jalios) with my current job.</p>
 
