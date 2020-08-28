@@ -10,16 +10,15 @@
 
 ![compassionate-coding](/S0f1eM/S0f1eM/blob/master/compassionate.jpeg)
 
-### 😊 About me (as an individual) : 
+### 👩🏻‍💼 About me : 
+* 🙋‍♀️ I adapt easily to the work habits of my coworkers and I got sense of responsibility.   
+* 🛎️ Always available and enthusiastic 😄, I bring good humo(u)r and optimism to the group 🌼.   
+* 🤗 I believe it's important to support coworkers and give them the means to develop as individuals 🎗️⚖️🏳️‍🌈 while growing within the group.
 * I love Pixar movies 🎈🎈🏠🎈🎈  
 * I have an art history and archeologia degree 🤠  
 * I love walks on the beach 🌅 and in the hood 🌲
 * I like to relax playing onboard games 🎲 and video games 🎮
-
-### 👩🏻‍💼 About me (as a coworker) : 
-* 🙋‍♀️ I adapt easily to the work habits of my coworkers and I got sense of responsibility.   
-* 🛎️ Always available and enthusiastic 😄, I bring good humo(u)r and optimism to the group 🌼.   
-* 🤗 I believe it's important to support coworkers and give them the means to develop as individuals 🎗️⚖️🏳️‍🌈 while growing within the group.
+* ...
 
 ### >_ Developer XP
 
@@ -51,5 +50,4 @@
 * 🖌️ *[Portfolio](https://sophie-marchand.netlify.app/)*.
 * 🐦 *[Twitter](https://twitter.com/S0f1eM)*.
 * 💬 *[Linkedin](https://www.linkedin.com/in/sophie-marchand-web-developer/)*. 
-* 📝 *[Online developer resume](https://www.cakeresume.com/me/sophie-marchand)*.
 
