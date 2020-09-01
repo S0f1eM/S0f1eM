@@ -1,8 +1,8 @@
-## 👋 Hi there, I'm Sophie ! I'm a Frontend oriented developer.  
+## 👋 Hi there, I'm Sophie ! I'm a developer focusing on front-end development.  
 
-<p>💻 I have experiences with <b>Javascript</b> and various <b>CMS</b> (WordPress, Plone, Prestashop, Jalios).</p>
+<p>💻 I have experiences with <b>Javascript</b> and various <b>CMS</b> (WordPress, Plone, Prestashop...).</p>
 
-<p>🔭 I’m currently learning <b>React</b> with Redux.</p>
+<p>🔭 I’m currently learning <b>React</b> with Redux and working on JCMS (jalios) with my day job.</p>
 
 #### ⚠️ I'm searching for a developer remote job to collaborate with positive and passionate people. 
 
