@@ -11,11 +11,9 @@
 * 🐦 *[Twitter](https://twitter.com/S0f1eM)*.
 * 💬 *[Linkedin](https://www.linkedin.com/in/sophie-marchand-web-developer/)*. 
 
+![compassionate-coding](/S0f1eM/S0f1eM/blob/master/compassionate.jpeg)
 
 [![Les Stats GitHub de Sophie](https://github-readme-stats.vercel.app/api?username=S0f1eM&hide=issues&show_icons=true&theme=dracula)](https://github.com/S0f1eM/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S0f1eM&layout=compact&theme=dracula)](https://github.com/S0f1eM/github-readme-stats)
 
-![compassionate-coding](/S0f1eM/S0f1eM/blob/master/compassionate.jpeg)
-
 <p> Credits : I use <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats from Anuraghazra</A> to show stats. Thank you Anuraghazra.</p>
-
