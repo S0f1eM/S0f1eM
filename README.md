@@ -1,3 +1,5 @@
+![compassionate-coding](/S0f1eM/S0f1eM/blob/master/compassionate.jpeg)
+
 ## 👋 Hi there, I'm Sophie ! I'm a developer focusing on front-end development.  
 
 <p>💻 I have experiences with <b>Javascript</b> and various <b>CMS</b> (WordPress, Plone, Prestashop...).</p>
@@ -10,8 +12,6 @@
 * 🖌️ *[Portfolio](https://sophie-marchand.netlify.app/)*.
 * 🐦 *[Twitter](https://twitter.com/S0f1eM)*.
 * 💬 *[Linkedin](https://www.linkedin.com/in/sophie-marchand-web-developer/)*. 
-
-![compassionate-coding](/S0f1eM/S0f1eM/blob/master/compassionate.jpeg)
 
 [![Les Stats GitHub de Sophie](https://github-readme-stats.vercel.app/api?username=S0f1eM&hide=issues&show_icons=true&theme=dracula)](https://github.com/S0f1eM/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S0f1eM&layout=compact&theme=dracula)](https://github.com/S0f1eM/github-readme-stats)
