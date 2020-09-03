@@ -17,9 +17,6 @@
 
 #### Web Developer - IUEM - National education (public official contract) - feb. 2017 - dec. 2018 (2 years)
 
-* 2017 (1 year contract): <b>Users support</b> on Plone CMS (CSS, JS, Python) for about 40 websites.   
-⌨️  Web pole maintenance : fixing bugs (tickets), updating CMS versions, <b>Training users</b>, HTML/CSS integration and updating contents on the intranet. 
-
 * 2018 (contract renewed for 1 year): <b>Project management and development</b> on the [4 main sites](https://www-iuem.univ-brest.fr/) rebuild.    
 ⌨️ Schedule management and modifications of the plannings to keep the final deadline (end of my contract) for each websites.  
 ⌨️ Migration of updated contents from Plone websites to WordPress websites for each new one.  
@@ -27,7 +24,10 @@
 ⌨️ Implementation of [custom contents (CPT)](https://www-iuem.univ-brest.fr/lemar/recherche/equipe-panorama/#prsentation) depending on the laboratories needs.  
 ⌨️ Websites <b>deployment</b> and feedbacks adjustments.    
 ⌨️ Tests on the internal server, technical and users documentations, meetings...  
-⌨️ I build from scratch a <b>WordPress plugin</b> to manage a directory database. [More about the Directory WordPress plugin](https://github.com/S0f1eM/my-first-wp-plugin) (postgre to MySQL, PHP, JavaScript).  
+⌨️ I build from scratch a <b>WordPress plugin</b> to manage a directory database. [More about the Directory WordPress plugin](https://github.com/S0f1eM/my-first-wp-plugin) (postgre to MySQL, PHP, JavaScript). 
+
+* 2017 (1 year contract): <b>Users support</b> on Plone CMS (CSS, JS, Python) for about 40 websites.   
+⌨️  Web pole maintenance : fixing bugs (tickets), updating CMS versions, <b>Training users</b>, HTML/CSS integration and updating contents on the intranet. 
 
 *  To contact me and know more about me :
 * 🖌️ *[Portfolio](https://sophie-marchand.netlify.app/)*.
