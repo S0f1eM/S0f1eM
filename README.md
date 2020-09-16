@@ -4,9 +4,7 @@
 
 <p>💻 I have experiences with <b>Javascript</b> and various <b>CMS</b> (WordPress, Plone, Prestashop...).</p>
 
-<p>🔭 I’m currently learning <b>React</b> with Redux and working on <b>JCMS (jalios)</b> with my day job.</p>
-
-#### ⚠️ I'm currently searching for a remote job to collaborate with positive people. 
+<p>🔭 I’m currently working on <b>JCMS (jalios)</b> with my day job.</p> 
 
 ### >_ Developer XP
 
