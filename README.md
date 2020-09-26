@@ -4,31 +4,27 @@
 
 <p>💻 I have experiences with <b>Javascript</b> and various <b>CMS</b> (WordPress, Plone, Prestashop...).</p>
 
-<p>🔭 I’m currently working on <b>JCMS (jalios)</b> with my day job.</p> 
+<p>🔭 I’m learning React on my spare time and working on <b>JCMS (jalios)</b> with my actual job.</p> 
 
 ### >_ Developer XP
 
 #### Developer - (IT and consulting company) - oct. 2019 - today
 
-* Missions on various bank companies intranets implemented templates, gabarits & portlets with Jalios CMS (HTML/LESS).
+* Missions on various bank companies intranets implemented templates, gabarits & portlets with Jalios CMS.
 * Work with Java, jsp, jQuery, JIRA, Jenkins (CI/CD), Eclipse, Gitlab...
 
 #### Web Developer - IUEM - National education (public official contract) - feb. 2017 - dec. 2018 (2 years)
 
 * 2018 (contract renewed for 1 year): <b>Project management and development</b> on the [4 main sites](https://www-iuem.univ-brest.fr/) rebuild.    
-⌨️ Schedule management and modifications of the plannings to keep the final deadline (end of my contract) for each websites.  
-⌨️ Migration of updated contents from Plone websites to WordPress websites for each new one.  
 ⌨️ <b>Design integration</b> with page builder Elementor (to give the ability to refresh the websites design when I left).  
 ⌨️ Implementation of [custom contents (CPT)](https://www-iuem.univ-brest.fr/lemar/recherche/equipe-panorama/#prsentation) depending on the laboratories needs.  
-⌨️ Websites <b>deployment</b> and feedbacks adjustments.    
-⌨️ Tests on the internal server, technical and users documentations, meetings...  
-⌨️ I build from scratch a <b>WordPress plugin</b> to manage a directory database. [More about the Directory WordPress plugin](https://github.com/S0f1eM/my-first-wp-plugin) (postgre to MySQL, PHP, JavaScript). 
+⌨️ Development of a <b>WordPress plugin</b> to manage a directory database. [More about the plugin](https://github.com/S0f1eM/my-first-wp-plugin). 
 
 * 2017 (1 year contract): <b>Users support</b> on Plone CMS (CSS, JS, Python) for about 40 websites.   
 ⌨️  Web pole maintenance : fixing bugs (tickets), updating CMS versions, <b>Training users</b>, HTML/CSS integration and updating contents on the intranet. 
 
 *  To contact me and know more about me :
-* 🖌️ *[Portfolio](https://sophie-marchand.netlify.app/)*.
+* 🖌️ *[Portfolio](https://sophie-marchand.com/)*.
 * 🐦 *[Twitter](https://twitter.com/S0f1eM)*.
 * 💬 *[Linkedin](https://www.linkedin.com/in/sophie-marchand-web-developer/)*. 
 
