@@ -1,4 +1,3 @@
-![compassionate-coding](/S0f1eM/S0f1eM/blob/master/compassionate.jpeg)
 
 ## 👋 Hi there, I'm Sophie ! I'm a developer focusing on front-end development.  
 
