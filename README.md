@@ -2,7 +2,7 @@
 ## 👋 Hi there, I'm Sophie ! A developer focusing on front-end development and a remote job seeker.  
 * :octocat: *[enterprise Github profile](https://github.com/so-phi/)*.
 
-*  To contact me or know more about me :
+If you want to contact me or know more about me, you can check one of those links :
 * 🖌️ *[Portfolio](https://sophie-marchand.com/)*.
 * 🐦 *[Twitter](https://twitter.com/S0f1eM)*.
 * 💬 *[Linkedin](https://www.linkedin.com/in/sophie-marchand-web-developer/)*. 
