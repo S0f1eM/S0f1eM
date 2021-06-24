@@ -2,7 +2,7 @@
 ## 👋 Hi there, I'm Sophie ! A developer focusing on front-end development and a remote job seeker.
 
 If you want to contact me or know more about me, you can check one of those links :
-* 🖌️ *[Portfolio](https://sophie-marchand.com/)*.
+* 🖌️ *[Portfolio](https://sophie-marchand.netlify.app/)*.
 * 🐦 *[Twitter](https://twitter.com/S0f1eM)*.
 * 💬 *[Linkedin](https://www.linkedin.com/in/sophie-marchand-web-developer/)*. 
 
