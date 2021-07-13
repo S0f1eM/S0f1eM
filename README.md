@@ -1,5 +1,5 @@
 
-## 👋 Hi there, I'm Sophie ! A developer focusing on front-end development and a remote job seeker.
+## 👋 Hi there, I'm Sophie ! A developer focusing on front-end development.
 
 If you want to contact me or know more about me, you can check one of those links :
 * 🖌️ *[Portfolio](https://sophie-marchand.netlify.app/)*.
